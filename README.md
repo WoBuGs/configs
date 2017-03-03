@@ -1,2 +1,4 @@
-# configs
 Configurations
+======
+
+Various configurations
