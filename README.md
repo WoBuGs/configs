@@ -2,9 +2,8 @@
 
 Various configurations.
 
-# Useful tools
-
 * git
-* htop
-* tmux
+* bash
+* vim
 * zsh (+ oh-my-zsh)
+* tmux
